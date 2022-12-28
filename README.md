@@ -1,6 +1,6 @@
 # IMDB API Clone With DRF
 
-<h3>🔗 Final Project Links (Arranged According To Usage)</h3>
+<h3>🔗 Final Project Links </h3>
 <br>
 
 <b>1. Admin Access</b>
